@@ -6,7 +6,7 @@ A **next-generation calculator web app** built with **HTML, CSS, and JavaScript*
 
 ## 🚀 Live Demo
 
-🔗 *Add your deployed link here (GitHub Pages / Netlify)*
+🔗 (https://sujaltonge384.github.io/AI-Voice-Premium-Calculator/)
 
 ---
 
