@@ -90,7 +90,7 @@ Try speaking:
 ## ⚙️ How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/ai-calculator.git
+git clone https://github.com/Sujaltonge384/AI-Voice-Premium-Calculator
 cd ai-calculator
 ```
 
