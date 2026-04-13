@@ -144,9 +144,3 @@ If you like this project:
 👉 Share it with others
 
 ---
-
-## 📌 Note
-
-This project is built for **portfolio and learning purposes**, showcasing modern UI design and AI-based interaction in web development.
-
----
